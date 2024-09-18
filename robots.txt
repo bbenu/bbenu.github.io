@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bbenu.github.io/FZW/sitemap.FZW.gz
